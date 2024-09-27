@@ -3,7 +3,7 @@ uploadSave(){
 	cp -r ~/Saved\ Games\/God\ of\ War\ Ragnarök ./
 	git status
 	git add .
-	git commit -m "Upload save from PC";
+	git commit -m "Upload save from Laptop";
 	git push;
 }
 
